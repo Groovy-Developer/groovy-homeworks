@@ -1,0 +1,22 @@
+plugins {
+    id 'groovy'
+}
+
+group = 'org.example'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'org.apache.groovy:groovy-all:4.0.22'
+    implementation "org.apache.poi:poi-ooxml:${poiVersion}"
+    implementation "com.opencsv:opencsv:${openCsvVersion}"
+    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+}
+
+test {
+    useJUnitPlatform()
+}
