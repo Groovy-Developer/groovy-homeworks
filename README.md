@@ -6,8 +6,8 @@ Homeworks for Otus Groovy Developer course (https://otus.ru/lessons/groovy-devel
 
 **Модуль 1: Основы синтаксиса языка Groovy**
 - [Задание 1: Заготовка gradle-проекта для Groovy](./hw-1)
-- [Задание 2: Банкомат](./hw-2)
-- [Задание 3: ToDo List](./hw-3)
+- [Задание 2: Банкомат](./hw-3)
+- [Задание 3: ToDo List](./hw-2)
 
 **Модуль 2: Groovy DSL и паттерны проектирования**
 - [Задание 5: XLSX-builder](./hw-5)
