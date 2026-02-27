@@ -1,4 +1,4 @@
-# Написание плагина для Gradle
+## Задание 7: Написание плагина для Gradle
 
 Шаблон проекта: https://github.com/a-poliakov/gradle-plugin-example
 
